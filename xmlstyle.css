@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+song {
+    display:block;
+    border-bottom: 1px solid #1E3FD1;
+    padding : 8px 8px;
+    text-align: center;
+    font-weight: 300; font-size: 25px;
+}
+song artist:before {content:"Artist(s): "; font-weight: 900; }
+song artist {display: block; }
+song title:before {content: "Title: "; font-weight: 900;}
+song title {display: block; font-weight: 300;}
+song genre:before {content: "Genre: "; font-weight: 900;}
+song genre {display: block; font-weight: 300; }
+song year:before {content: "Year released: "; font-weight: 900;}
+song year {display: block; font-weight: 300; }

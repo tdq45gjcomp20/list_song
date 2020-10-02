@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+
+<list>
+    <song>
+        <artist>BLACKPINK</artist>
+        <title>How You Like That</title>
+        <genre>K-Pop</genre>
+        <year>2020</year>
+    </song>
+    <song>
+        <artist>BIGBANG</artist>
+        <title>If You</title>
+        <genre>K-Pop</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>JENNIE</artist>
+        <title>SOLO</title>
+        <genre>K-Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Ariana Grande</artist>
+        <title>7 Rings</title>
+        <genre>Pop</genre>
+        <year>2019</year>
+    </song>
+    <song>
+        <artist>Camila Cabello, Young Thug</artist>
+        <title>Havana (feat. Young Thug)</title>
+        <genre>Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Bebe Rexha</artist>
+        <title>I'm a Mess</title>
+        <genre>Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Demi Lovato</artist>
+        <title>Sorry Not Sorry</title>
+        <genre>Pop</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <artist>Dua Lipa</artist>
+        <title>IDGAF</title>
+        <genre>Pop</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <artist>Demi Lovato</artist>
+        <title>Heart Attack</title>
+        <genre>Pop</genre>
+        <year>2013</year>
+    </song>
+    <song>
+        <artist>BLACKPINK</artist>
+        <title>Kill This Love</title>
+        <genre>K-Pop</genre>
+        <year>2019</year>
+    </song>
+</list>
